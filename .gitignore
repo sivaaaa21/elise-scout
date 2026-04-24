@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.DS_Store
+output/enriched_leads.csv
+output/*.backup.csv
+*.log
+credentials*.json
+service-account*.json
+.idea/
+.vscode/
