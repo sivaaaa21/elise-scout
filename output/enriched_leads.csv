@@ -1,0 +1,219 @@
+name,email,company,property_address,city,state,country,score,tier,component_market_size,component_rental_mix,component_rent_level,component_company_signal,market_population,market_renter_percentage,market_median_rent,market_median_income,wikipedia_description,wikipedia_url,top_news_title,top_news_url,top_news_source,top_news_date,weather_description,weather_temp_f,email_subject,email_body,email_provider,insights,enriched_at
+Priya Patel,priya.patel@greystar.com,Greystar,465 N Park Ave,Chicago,IL,US,78,HOT,40,24,6,8,2721914,54.4,1314,71673,Real estate investment firm,https://en.wikipedia.org/wiki/Greystar,,,,,scattered clouds,77.72,Enhancing Leasing Efficiency at Greystar,"Hi Priya,
+
+Hope you're enjoying the scattered clouds in Chicago today. I noticed that Greystar has over $76 billion in assets under management and operates in 17 countries, which is quite impressive given the city's 54.4% renter occupancy rate.
+
+I’m reaching out to explore how EliseAI can support your leasing efforts in such a dynamic market. Our LeasingAI handles prospect inquiries 24/7 across SMS, email, and chat, while VoiceAI manages calls with zero hold time. Together, they can streamline your operations and allow your team to focus on in-person tours and community events.
+
+Could we schedule a quick 15-minute call to discuss this?
+
+Regards,
+EliseAI",openai,"**Why this lead:** Chicago is a top-tier metro with 54% renters — healthy multifamily market.
+**Conversation hooks:**
+  Market rent: \$1,314/mo median in Chicago — reference in opener to show market expertise
+  Company context: real estate investment firm — use in opener to sound informed
+  Local weather: scattered clouds, 78°F in Chicago — soft opener for the email
+**Things to know:**
+  Large operators often have incumbent leasing tools — prepare migration + integration talking points
+**Next step →** Assign to enterprise AE, outreach within 24 hrs, book 30-min intro this week.",2026-04-24T00:54:27+00:00
+Marcus Chen,marcus@camdenliving.com,Camden Property Trust,11 Greenway Plaza,Houston,TX,US,84,HOT,40,30,6,8,2296253,58.0,1235,60440,Real estate investment trust,https://en.wikipedia.org/wiki/Camden_Property_Trust,,,,,few clouds,76.69,Enhancing Leasing Efficiency at Camden,"Hi Marcus,
+
+Hope you're staying dry in Houston today. I noticed Camden Property Trust is now the 14th largest owner of apartments in the U.S., with 59,800 homes across 176 communities. That's quite an impressive portfolio!
+
+With Houston's 58% renter-occupied units and a median gross rent of $1,235, efficiency in leasing can really make a difference. EliseAI can help streamline your leasing process with LeasingAI, which handles inquiries 24/7 via SMS, email, and chat, as well as VoiceAI that manages phone calls without hold time. This allows your team to focus on in-person tours and community events.
+
+I'd love to explore how we can support Camden's leasing efforts. Do you have 15 minutes for a quick chat?
+
+Regards,
+EliseAI",openai,"**Why this lead:** Houston is a top-tier metro with 58% renter-occupancy — high lease velocity, strong multifamily demand.
+**Conversation hooks:**
+  Market rent: \$1,235/mo median in Houston — reference in opener to show market expertise
+  Company context: real estate investment trust — use in opener to sound informed
+  Local weather: few clouds, 77°F in Houston — soft opener for the email
+**Things to know:**
+  Large operators often have incumbent leasing tools — prepare migration + integration talking points
+  Publicly-traded REIT — expect procurement rigor, lead with compliance/SOC2 content
+**Next step →** Assign to enterprise AE, outreach within 24 hrs, book 30-min intro this week.",2026-04-24T00:54:34+00:00
+Sarah Rodriguez,srodriguez@avaloncommunities.com,AvalonBay Communities,100 Battery Park City,New York,NY,US,87,HOT,40,30,9,8,8622467,67.1,1714,76607,American real estate company,https://en.wikipedia.org/wiki/AvalonBay_Communities,,,,,clear sky,67.6,Enhancing Leasing Efficiency at AvalonBay,"Hi Sarah,
+
+Looks like a lovely clear day in New York! I noticed AvalonBay Communities is a leader in the real estate sector, managing over 3.6 million housing units across the country.
+
+Given that 67.1% of New York’s population are renters, streamlining leasing operations is crucial. This is where EliseAI can help. Our LeasingAI and VoiceAI solutions engage prospects 24/7, handling inquiries and scheduling tours seamlessly. This allows your team to focus more on in-person interactions and community events.
+
+Would you be open to a quick 15-minute chat to explore how we can support AvalonBay's leasing efforts?
+
+Regards,
+EliseAI",openai,"**Why this lead:** New York is a top-tier metro with 67% renter-occupancy — high lease velocity, strong multifamily demand.
+**Conversation hooks:**
+  Market rent: \$1,714/mo median in New York — reference in opener to show market expertise
+  Company context: american real estate company — use in opener to sound informed
+  Local weather: clear sky, 68°F in New York — soft opener for the email
+**Things to know:**
+  Large operators often have incumbent leasing tools — prepare migration + integration talking points
+**Next step →** Assign to enterprise AE, outreach within 24 hrs, book 30-min intro this week.",2026-04-24T00:54:42+00:00
+Daniel Kim,dkim@equityresidential.com,Equity Residential,350 Mission St,San Francisco,CA,US,84,HOT,34,30,12,8,851036,61.4,2316,136689,Real estate investment firm,https://en.wikipedia.org/wiki/Equity_Residential,,,,,broken clouds,63.12,Enhancing Leasing Efficiency at Equity Residential,"Hi Daniel,
+
+Bit of a grey one in San Francisco — hope you're keeping warm. I noticed that San Francisco has a renter percentage of 61.4%, which is quite significant, and it seems like Equity Residential is a key player in the market.
+
+I’m reaching out to share how EliseAI can help your team manage leasing inquiries more effectively. With our LeasingAI handling prospect inquiries 24/7 and VoiceAI making phone calls without hold time, we can help free up your leasing agents for more personal interactions.
+
+Would you have 15 minutes for a quick chat about how we can support your goals?
+
+Regards,
+EliseAI",openai,"**Why this lead:** San Francisco is a major market with 61% renter-occupancy — high lease velocity, strong multifamily demand.
+**Conversation hooks:**
+  Market rent: \$2,316/mo median in San Francisco — reference in opener to show market expertise
+  Company context: real estate investment firm — use in opener to sound informed
+  Local weather: broken clouds, 63°F in San Francisco — soft opener for the email
+**Things to know:**
+  Large operators often have incumbent leasing tools — prepare migration + integration talking points
+**Next step →** Assign to enterprise AE, outreach within 24 hrs, book 30-min intro this week.",2026-04-24T00:54:49+00:00
+Jessica Brooks,jbrooks@morgan-properties.com,Morgan Properties,1400 Walnut St,Philadelphia,PA,US,78,HOT,40,24,6,8,1593208,47.8,1250,57537,Real estate investment and management company,https://en.wikipedia.org/wiki/Morgan_Properties,,,,,few clouds,66.16,Enhancing Leasing Efficiency at Morgan Properties,"Hi Jessica,
+
+Hope you're staying dry in Philadelphia today. I noticed that Morgan Properties operates over 95,000 units across 19 states, showcasing your significant presence in the multifamily housing market.
+
+With nearly 48% of Philadelphia's housing units renter-occupied, the demand for efficient leasing solutions is crucial. EliseAI can help streamline your leasing process. Our LeasingAI handles inquiries 24/7 across SMS, email, and chat, while VoiceAI ensures zero hold time for calls, allowing your team to focus on in-person tours.
+
+Would you be open to a quick 15-minute chat to explore how we can support your leasing efforts?
+
+Regards,
+EliseAI",openai,"**Why this lead:** Philadelphia is a top-tier metro with 48% renters — healthy multifamily market.
+**Conversation hooks:**
+  Market rent: \$1,250/mo median in Philadelphia — reference in opener to show market expertise
+  Company context: real estate investment and management company — use in opener to sound informed
+  Local weather: few clouds, 66°F in Philadelphia — soft opener for the email
+**Things to know:**
+  Large operators often have incumbent leasing tools — prepare migration + integration talking points
+**Next step →** Assign to enterprise AE, outreach within 24 hrs, book 30-min intro this week.",2026-04-24T00:54:55+00:00
+Tyler Nguyen,tyler@bellpartnersinc.com,Bell Partners,200 S Tryon St,Charlotte,NC,US,64,WARM,34,24,6,0,875045,47.9,1399,74070,,,,,,,clear sky,71.69,Enhancing Leasing Efficiency at Bell Partners,"Hi Tyler,
+
+Looks like a bright one in Charlotte today. I noticed that 47.9% of housing units in the area are renter-occupied, which presents a great opportunity for efficient leasing.
+
+I’m reaching out to share how EliseAI can streamline your leasing process at Bell Partners. Our LeasingAI engages prospects 24/7 via SMS, email, and chat, while VoiceAI handles phone calls with zero hold time. This frees your team to focus on in-person tours and community events.
+
+Would you be open to a quick 15-minute chat to explore this further?
+
+Regards,
+EliseAI",openai,"**Why this lead:** Charlotte is a major market with 48% renters — healthy multifamily market.
+**Conversation hooks:**
+  Market rent: \$1,399/mo median in Charlotte — reference in opener to show market expertise
+  Local weather: clear sky, 72°F in Charlotte — soft opener for the email
+**Things to know:**
+  No public company footprint — qualify size and fit on the discovery call before investing outreach time
+**Next step →** Personalized email this week, follow up in 3 business days.",2026-04-24T00:55:02+00:00
+Alicia Gomez,alicia@lincolnapts.com,Lincoln Property Company,500 N Akard St,Dallas,TX,US,76,HOT,40,30,6,0,1300642,58.1,1305,63985,,,,,,,broken clouds,78.13,Enhancing Leasing Efficiency in Dallas,"Hi Alicia,
+
+Hope you're staying dry in Dallas today. I noticed that 58.1% of housing units are renter-occupied in your area, which speaks to the strong demand for multifamily properties.
+
+I’m reaching out to discuss how EliseAI can support Lincoln Property Company in managing this demand effectively. 
+
+Our LeasingAI engages prospects 24/7 across SMS, email, and chat, while VoiceAI handles calls without any hold time. Together, they streamline scheduling and free up your leasing agents for in-person tours and community events.
+
+Would you be open to a quick 15-minute chat to explore how we can assist your team?
+
+Regards,
+EliseAI",openai,"**Why this lead:** Dallas is a top-tier metro with 58% renter-occupancy — high lease velocity, strong multifamily demand.
+**Conversation hooks:**
+  Market rent: \$1,305/mo median in Dallas — reference in opener to show market expertise
+  Local weather: broken clouds, 78°F in Dallas — soft opener for the email
+**Things to know:**
+  Large operators often have incumbent leasing tools — prepare migration + integration talking points
+  No public company footprint — qualify size and fit on the discovery call before investing outreach time
+**Next step →** Assign to enterprise AE, outreach within 24 hrs, book 30-min intro this week.",2026-04-24T00:55:10+00:00
+Raj Mehta,rmehta@milehighapts.com,Mile High Residential,1550 Larimer St,Denver,CO,US,67,WARM,34,24,9,0,710800,50.6,1665,85853,,,,,,,overcast clouds,60.71,Enhancing Leasing Efficiency at Mile High Residential,"Hi Raj,
+
+Bit of a grey one in Denver — hope you're keeping warm. I noticed that Denver has a significant renter population, with over 50% of housing units occupied by renters. 
+
+Given Mile High Residential's focus on the market, I wanted to introduce how EliseAI can enhance your leasing operations. 
+
+Our LeasingAI manages prospect inquiries around the clock, while VoiceAI takes care of phone calls without any hold time, allowing your team to concentrate on in-person tours and community events. 
+
+Would you be open to a quick 15-minute chat to explore how we can support your goals? 
+
+Regards,
+EliseAI",openai,"**Why this lead:** Denver is a major market with 51% renters — healthy multifamily market.
+**Conversation hooks:**
+  Market rent: \$1,665/mo median in Denver — reference in opener to show market expertise
+  Local weather: overcast clouds, 61°F in Denver — soft opener for the email
+**Things to know:**
+  No public company footprint — qualify size and fit on the discovery call before investing outreach time
+**Next step →** Personalized email this week, follow up in 3 business days.",2026-04-24T00:55:16+00:00
+Emily Carter,ecarter@pinebrookmanagement.com,Pinebrook Management,45 Elm St,Burlington,VT,US,43,COOL,4,30,9,0,44646,60.1,1540,64931,,,,,,,clear sky,46.87,Enhancing Leasing Efficiency at Pinebrook,"Hi Emily,
+
+Hope you're staying warm in Burlington today. I noticed that over 60% of housing units in your area are renter-occupied, which presents a great opportunity for property management to streamline leasing processes.
+
+I’m reaching out to see if you’ve considered how agentic AI can support your leasing efforts. With LeasingAI, you can manage prospect inquiries 24/7 across SMS, email, and chat, while VoiceAI handles calls with zero hold time.
+
+I’d love to schedule a quick 15-minute chat to explore how EliseAI can support Pinebrook Management’s leasing goals.
+
+Regards,
+EliseAI",openai,"**Why this lead:** Burlington is a small market with 60% renter-occupancy — high lease velocity, strong multifamily demand.
+**Conversation hooks:**
+  Market rent: \$1,540/mo median in Burlington — reference in opener to show market expertise
+  Local weather: clear sky, 47°F in Burlington — soft opener for the email
+**Things to know:**
+  No public company footprint — qualify size and fit on the discovery call before investing outreach time
+**Next step →** Enroll in nurture sequence, revisit in 30 days.",2026-04-24T00:55:22+00:00
+Jorge Alvarez,jorge@sunbeltrentals.com,Sunbelt Rental Group,800 Brickell Ave,Miami,FL,US,67,WARM,28,30,9,0,443665,69.9,1494,54858,,,,,,,broken clouds,71.4,Enhancing Leasing Efficiency in Miami,"Hi Jorge,
+
+Hope you're staying dry in Miami today. I noticed that nearly 70% of Miami's housing units are renter-occupied, which speaks to the demand for efficient leasing solutions in the area.
+
+I’m reaching out to share how EliseAI can help Sunbelt Rental Group. Our agentic AI solutions, like LeasingAI and VoiceAI, manage prospect inquiries 24/7, freeing up your team to focus on in-person tours and events.
+
+Could we schedule a quick 15-minute call to explore this further?
+
+Regards,
+EliseAI",openai,"**Why this lead:** Miami is a major market with 70% renter-occupancy — high lease velocity, strong multifamily demand.
+**Conversation hooks:**
+  Market rent: \$1,494/mo median in Miami — reference in opener to show market expertise
+  Local weather: broken clouds, 71°F in Miami — soft opener for the email
+**Things to know:**
+  No public company footprint — qualify size and fit on the discovery call before investing outreach time
+**Next step →** Personalized email this week, follow up in 3 business days.",2026-04-24T00:55:28+00:00
+Kate Bennett,kate@smalltownprops.com,Smalltown Properties LLC,14 Main St,Pierre,SD,US,16,COLD,4,9,3,0,14105,29.5,914,80473,,,,,,,clear sky,51.94,Enhancing Leasing Efficiency in Pierre,"Hi Kate,
+
+Hope you're staying warm in Pierre today. I noticed that 29.5% of the housing units are renter-occupied in your area, which highlights a strong demand for rental properties.
+
+I’m reaching out to introduce EliseAI, as I believe our solutions could help Smalltown Properties streamline its leasing process. With LeasingAI, your team can address prospect inquiries 24/7 via SMS, email, and chat, while VoiceAI handles phone calls seamlessly.
+
+Would you be open to a quick 15-minute chat to explore how we can support your leasing efforts?
+
+Regards,
+EliseAI",openai,"**Why this lead:** Pierre is a small market with only 30% renters — owner-heavy market, lower fit.
+**Conversation hooks:**
+  Market rent: \$914/mo median in Pierre — reference in opener to show market expertise
+  Local weather: clear sky, 52°F in Pierre — soft opener for the email
+**Things to know:**
+  No public company footprint — qualify size and fit on the discovery call before investing outreach time
+  Owner-heavy market — confirm their portfolio is actually rentals before pitching
+**Next step →** Deprioritize for active outreach, keep on mailing list.",2026-04-24T00:55:34+00:00
+Noah Reid,noah@bayviewmgmt.com,Bayview Management,21 Harbor Rd,Kodiak,AK,US,34,COOL,4,24,6,0,5584,49.7,1348,76765,,,,,,,moderate rain,40.51,AI Solutions for Bayview Management,"Hi Noah,
+
+Bit of a grey one in Kodiak — hope you're keeping warm. I noticed Kodiak has a 49.7% renter occupancy rate, which highlights the demand for efficient leasing solutions in your area.
+
+I’m reaching out to explore how Bayview Management is managing its leasing processes. With the competitive rental market, having tools like LeasingAI and VoiceAI can help streamline inquiries and free up your team's time for in-person engagements.
+
+Would you be open to a quick 15-minute chat to see how we can support your leasing efforts?
+
+Regards,
+EliseAI",openai,"**Why this lead:** Kodiak is a small market with 50% renters — healthy multifamily market.
+**Conversation hooks:**
+  Market rent: \$1,348/mo median in Kodiak — reference in opener to show market expertise
+  Local weather: moderate rain, 41°F in Kodiak — soft opener for the email
+**Things to know:**
+  No public company footprint — qualify size and fit on the discovery call before investing outreach time
+**Next step →** Enroll in nurture sequence, revisit in 30 days.",2026-04-24T00:55:39+00:00
+Jane Doe,XYZ@gmail.com,Acme Realty,123 Main street,Brooklyn,NY,US,0,COLD,0,0,0,0,,,,,,,,,,,clear sky,64.89,Enhancing Leasing Efficiency at Acme Realty,"Hi Jane,
+
+Hope you're enjoying the clear skies in Brooklyn today. I noticed Acme Realty has been expanding its portfolio recently, and it’s exciting to see your growth in the multifamily market.
+
+I’m reaching out to introduce EliseAI, which can help streamline your leasing process. Our LeasingAI and VoiceAI solutions handle inquiries 24/7, allowing your team to focus on more personalized interactions while we take care of scheduling tours seamlessly.
+
+Would you be open to a quick 15-minute chat to explore how we can support your leasing goals?
+
+Regards,
+EliseAI",openai,"**Conversation hooks:**
+  Local weather: clear sky, 65°F in Brooklyn — soft opener for the email
+**Things to know:**
+  No public company footprint — qualify size and fit on the discovery call before investing outreach time
+**Next step →** Deprioritize for active outreach, keep on mailing list.",2026-04-24T00:59:50+00:00
