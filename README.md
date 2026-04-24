@@ -205,15 +205,3 @@ EliseAI/
     └── VIDEO_SCRIPT.md          ← demo video cheat-sheet
 ```
 
-## What I'd build next (out of scope for this MVP)
-
-1. **CRM write-back** to Salesforce/HubSpot custom fields, so scores
-   drive routing rules (HOT leads skip SDR triage and go straight to AE).
-2. **Portfolio enrichment:** number of units under management per
-   company, via CoStar, Yardi, or a paid enrichment provider. This would
-   likely dominate the score and is the single biggest missing signal.
-3. **Re-weighting notebook** that ingests 60 days of closed-won/lost
-   deals and suggests new scoring weights (sklearn logistic regression
-   plus SHAP for interpretability).
-4. **Multi-touch sequencer.** Today we produce one email; the natural
-   extension is a 3-5 touch sequence with branching based on reply.
